@@ -16,3 +16,7 @@ Welcome to my data portfolio! Here I document my adventure into data analytics.
 | 🏥 [Hospital Discharge Analysis](https://github.com/hananguyen383/Hospital-Discharge-Summary) | Healthcare Analytics | Analyzed hospital discharge data to understand patient flow, length of stay, demographics, and admission patterns. |
 | 💄 [Cosmetics Chemical Analysis](https://github.com/hananguyen383/Chemical-in-Cosmetic-Analysis) | Data Analysis | Analyzed government data to identify cosmetic chemical usage, discontinued ingredients, affected products, and key trends. |
 
+# 📜My Certificates
+- [Google Project Management](https://coursera.org/share/f527d63155106426886792e46b210eb1)
+- [Google UX Design](https://coursera.org/share/a2fb1cb24e81679f2094bff7045f9e6f)
+- [Microsoft Power BI Data Analyst](https://coursera.org/share/57852c1644373ad57aaefa19b6ac9d93)
